@@ -1,0 +1,8 @@
+﻿<nodeList xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rna="http://www.rnaproject.org/data/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rnax="http://www.rnaproject.org/data/rnax/" contentItemUri="http://www.rnaproject.org/data/49cb6c6d-8b85-4677-beee-9c582e7a4b31" contentItemName="Zygoribatula propinquus" rna:numberOfChildren="0">
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/370a46a5-fb86-4763-b24d-72e698cf9891">
+  <skos:prefLabel xml:lang="sci">Abra alba</skos:prefLabel>
+  <skos:prefLabel xml:lang="dut">witte dunschaal</skos:prefLabel>
+  <skos:altLabel xml:lang="dut">BoneInfo.vondsttype.486</skos:altLabel>
+  <skos:broader rdf:resource="http://www.rnaproject.org/data/2d94b527-62ca-42ad-a69c-39caf5f5b5d9"/>
+  </skos:Concept>
+</nodeList>

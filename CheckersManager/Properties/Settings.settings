@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Trezorix.Checkers.ManagerApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DictionaryConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DictionaryConnection</Value>
+    </Setting>
+    <Setting Name="SolrIndexUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8080/checkers2solr</Value>
+    </Setting>
+    <Setting Name="SkosSourceRepositoryPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Development\Others\checkers2repo\SkosSources</Value>
+    </Setting>
+    <Setting Name="ProfileRepositoryPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Development\Others\checkers2repo\Profiles</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

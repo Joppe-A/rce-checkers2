@@ -1,0 +1,27 @@
+﻿@model Trezorix.Checkers.Analyzer.ConceptTerm
+
+@using Trezorix.Checkers.Analyzer
+
+<fieldset>
+    
+    <legend>@Model.Literal</legend>
+    
+    <div>Skos source key: @Model.SkosSourceKey</div>
+    <div>Concept Id: @Model.ConceptId</div>
+    
+    <div>Concept label: @Model.ConceptLabel</div>
+    
+    <div>Term Id: @Model.Id</div>
+    <div>Source: @Model.Source</div>
+    <div>Language: @Model.Language</div>
+    <div>Type: @Model.Type</div>
+
+    @if (Model is EnrichedConceptTerm)
+    {
+        <fieldset>
+            <legend>Enricher data:</legend>
+            <div>Dictionary collection: @(((EnrichedConceptTerm)Model).DictionaryCollectionName)</div>
+            <div>WordGroup: @(((EnrichedConceptTerm)Model).WordGroup)</div>
+        </fieldset>
+    }
+</fieldset>

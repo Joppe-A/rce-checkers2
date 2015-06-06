@@ -1,0 +1,24 @@
+﻿@model IEnumerable<string>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Skos sources:</title>
+</head>
+<body>
+    <div>
+        <h1>Profile list</h1>
+        <ul>
+            @foreach(var skosSource in Model)
+            {
+                <li>@skosSource</li>
+            }
+        </ul>
+    </div>
+</body>
+</html>

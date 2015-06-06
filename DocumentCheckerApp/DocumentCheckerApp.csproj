@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6D621376-97FA-4B06-8E94-CA6DFA228769}</ProjectGuid>
+    <ProjectTypeGuids>{E53F8FEA-EAE0-44A6-8774-FFD645390401};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Trezorix.Checkers.DocumentCheckerApp</RootNamespace>
+    <AssemblyName>Trezorix.Checkers.DocumentCheckerApp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <MvcProjectUpgradeChecked>true</MvcProjectUpgradeChecked>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExcludeApp_Data>true</ExcludeApp_Data>
+    <PublishDatabases>false</PublishDatabases>
+    <PackageAsSingleFile>true</PackageAsSingleFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Elmah, Version=1.2.14318.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\elmah.corelibrary.1.2.1\lib\Elmah.dll</HintPath>
+    </Reference>
+    <Reference Include="MvcContrib, Version=2.0.95.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MvcContrib.2.0.95.0\lib\MvcContrib.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.WebPages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.Helpers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Trezorix.Common, Version=1.0.4940.27264, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\Trezorix.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Trezorix.Testing.Common">
+      <HintPath>..\Lib\Trezorix.Testing.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Checkers2AssemblyInfo.cs">
+      <Link>Checkers2AssemblyInfo.cs</Link>
+    </Compile>
+    <Compile Include="ActiveProfile.cs" />
+    <Compile Include="Controllers\BasicDocumentController.cs" />
+    <Compile Include="Controllers\CheckersBaseController.cs" />
+    <Compile Include="Controllers\DocumentController.cs" />
+    <Compile Include="Controllers\DocumentControllerBase.cs" />
+    <Compile Include="CompiledTransforms.cs" />
+    <Compile Include="DocumentManager.cs" />
+    <Compile Include="InstanceRegistry.cs" />
+    <Compile Include="SystemConfig.cs" />
+    <Compile Include="Export\ExcelExportResult.cs" />
+    <Compile Include="Controllers\ExportController.cs" />
+    <Compile Include="Controllers\JobController.cs" />
+    <Compile Include="Export\DocumentExportModel.cs" />
+    <Compile Include="Export\ExportModel.cs" />
+    <Compile Include="Export\SkosSourceResult.cs" />
+    <Compile Include="Models\Jobs\JobExtJsModel.cs" />
+    <Compile Include="Helpers\XmlResult.cs" />
+    <Compile Include="Models\Shared\ExtJsResultModel.cs" />
+    <Compile Include="Models\Review\PerConceptHitModel.cs" />
+    <Compile Include="Controllers\ProfileController.cs" />
+    <Compile Include="Controllers\ReviewController.cs" />
+    <Compile Include="InstanceConfig.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\JsonDataContractActionResult.cs" />
+    <Compile Include="Helpers\StateToTextExtensions.cs" />
+    <Compile Include="Models\Documents\DocumentModel.cs" />
+    <Compile Include="Models\Documents\DocumentStatusJsonModel.cs" />
+    <Compile Include="Models\Documents\ExtJsDocumentCreationResultJsonModel.cs" />
+    <Compile Include="Models\Documents\PreviewViewModel.cs" />
+    <Compile Include="Models\Documents\ReviewResultViewModel.cs" />
+    <Compile Include="Models\Shared\ActionLinkModel.cs" />
+    <Compile Include="Models\Shared\DeleteConfirmViewModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Global.asax" />
+    <Content Include="Static\css\Styles.css" />
+    <Content Include="Static\img\grid3-hd-btn.gif" />
+    <Content Include="Static\img\sort_asc.gif" />
+    <Content Include="Static\img\sort_desc.gif" />
+    <Content Include="Static\js\App.js" />
+    <Content Include="Static\js\controller\DocumentController.js" />
+    <Content Include="Static\js\controller\JobController.js" />
+    <Content Include="Static\js\controller\SuggestionController.js" />
+    <Content Include="Static\js\controller\WizardController.js" />
+    <Content Include="Static\js\model\DocumentModel.js" />
+    <Content Include="Static\js\model\JobModel.js" />
+    <Content Include="Static\js\model\StructureModel.js" />
+    <Content Include="Static\js\model\SuggestionModel.js" />
+    <Content Include="Static\js\store\DocumentStore.js" />
+    <Content Include="Static\js\store\JobStore.js" />
+    <Content Include="Static\js\store\StructureStore.js" />
+    <Content Include="Static\js\store\SuggestionStore.js" />
+    <Content Include="Static\js\Utils.js" />
+    <Content Include="Static\js\view\document\Index.js" />
+    <Content Include="Static\js\view\job\Add.js" />
+    <Content Include="Static\js\view\document\Grid.js" />
+    <Content Include="Static\js\view\job\Grid.js" />
+    <Content Include="Static\js\view\suggestion\Add.js" />
+    <Content Include="Static\js\view\suggestion\Grid.js" />
+    <Content Include="Static\js\view\wizard\Step1.js" />
+    <Content Include="Static\js\view\wizard\Step2.js" />
+    <Content Include="Static\js\view\wizard\Step3.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\Elmah\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\Document checker release.pubxml" />
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="Views\Shared\DeleteConfirm.cshtml" />
+    <Content Include="Views\BasicDocument\Details.cshtml" />
+    <Content Include="Views\BasicDocument\Index.cshtml" />
+    <Content Include="Views\BasicDocument\Upload.cshtml" />
+    <Content Include="Views\Review\ConceptTerm.cshtml" />
+    <Content Include="Views\Review\AnalysisResultRendering.cshtml" />
+    <Content Include="Views\Document\Home.cshtml" />
+    <Content Include="Views\Profile\Index.cshtml" />
+    <Content Include="Views\SkosSources\Index.cshtml" />
+    <EmbeddedResource Include="Export\Export.xslt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Analyzer\Analyzer.csproj">
+      <Project>{92B2249F-465C-4ABF-B0C9-44891C921979}</Project>
+      <Name>Analyzer %28Analyzer\Analyzer%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DocumentChecker\DocumentChecker.csproj">
+      <Project>{6A4222CC-E9F9-410C-846A-74DC7632C51F}</Project>
+      <Name>DocumentChecker</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ResourceRepository\ResourceRepository.csproj">
+      <Project>{37713EA6-4557-4692-B96A-4400B1A575D5}</Project>
+      <Name>ResourceRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FileConverter\FileConverter.csproj">
+      <Project>{47483020-1704-48D0-9D0A-0C338F48BB46}</Project>
+      <Name>FileConverter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <SaveServerSettingsInUserFile>True</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+</Project>

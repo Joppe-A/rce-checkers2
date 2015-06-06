@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Trezorix.ResourceRepository.Resource<Trezorix.Checkers.DocumentChecker.Profiles.Profile>>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Profile index</h2>
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Language</th>
+            <th>Skos sources</th>
+            <th>Operations</th>
+        </tr>
+    </thead>
+    <tbody>
+
+@foreach (var profile in Model)
+{
+    <tr>
+        <td>@profile.Id</td>
+        <td>
+            @Html.ActionLink(profile.Entity.Key ?? profile.Id, "Edit", new { id = profile.Id })
+        </td>
+        <td>
+            @if (profile.Entity.Language != null)
+            {
+                @(profile.Entity.Language)
+            }
+            else
+            {
+                <text>None</text>
+            }
+        </td>
+        <td>
+            <ul>
+                @foreach (var binding in profile.Entity.SkosSourceBindings)
+                {
+                    <li>
+                        @binding.Key
+                    </li>
+                }
+            </ul>
+        </td>
+        <td>
+            <div>@Html.ActionLink("Delete", "Delete", new { id = profile.Id })</div>
+        </td>
+    </tr>
+}
+    </tbody>
+</table>
+
+@Html.ActionLink("Create profile", "Create")

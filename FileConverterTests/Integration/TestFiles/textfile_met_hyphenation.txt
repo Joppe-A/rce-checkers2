@@ -1,0 +1,4 @@
+Hallo dit is mijn harde enters text-
+file met woord afbreking. Kijken 
+hoe Tika hier mee omgaat. Maakt hij para-
+grafen per newline?

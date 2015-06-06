@@ -1,0 +1,24 @@
+﻿@model List<Trezorix.ResourceRepository.Resource<Trezorix.Checkers.DocumentChecker.Profiles.Profile>>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Profiles</title>
+</head>
+<body>
+    <div>
+        <h1>Profile list</h1>
+        <ul>
+            @foreach(var profile in Model)
+            {
+                <li>@profile</li>
+            }
+        </ul>
+    </div>
+</body>
+</html>

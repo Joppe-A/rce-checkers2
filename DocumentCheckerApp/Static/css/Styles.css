@@ -1,0 +1,231 @@
+﻿/* Global
+------------------------------ */
+
+em,
+strong {
+	font-weight: bold;
+}
+
+.empty-text {
+	margin: 10px;
+}
+
+.x-toolbar .toolbar-title {
+	font-weight: bold;
+}
+
+/* Header
+------------------------------ */
+
+.header-app {
+  color: #596F8F;  
+  font-size: 18px; 
+  padding: 10px 0 5px;
+  margin: 0 5px; 
+}
+
+.header-app a {
+	color: #15428b;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+/* Step indicator and buttons
+------------------------------ */
+.step-indicator 
+{
+	margin-right:5px;	
+}
+
+.step-indicator span {
+	font-size: 18px;
+	color: #69c;
+}
+
+.step-active .label {
+	/*font-weight: bold;*/
+	color: #15428b;
+}
+
+/* Grids
+------------------------------ */
+
+.x-grid-row .x-grid-cell {
+	border: none;
+}
+
+.x-column-header,
+.x-grid-header-ct {
+	background: #eee none!important;
+}
+
+.x-column-header-over {
+	background: #e4e4e4 none!important;
+}
+
+.x-column-header-trigger {
+	background: #C3DAF9 url(../img/grid3-hd-btn.gif) no-repeat left ;
+}
+
+.x-column-header-sort-ASC .x-column-header-text,
+.x-column-header-sort-DESC .x-column-header-text {
+    background: url(../img/sort_asc.gif) no-repeat right 6px;
+}
+
+.x-column-header-sort-DESC .x-column-header-text {
+    background-image: url(../img/sort_desc.gif);
+}
+
+.x-grid-header-ct {
+	cursor: pointer;
+}
+
+.x-grid-row .x-grid-cell-special {
+	background: #fff;	
+}
+
+.x-column-header-text {
+	font-weight: bold;
+}
+
+.x-grid-row {
+	cursor: pointer;
+}
+
+.x-grid-row-selected .x-grid-cell,
+.x-grid-row-selected .x-grid-rowwrap-div {
+	background: none!important;
+	border-color: #A3BAE9;
+	color: #f00;
+}
+
+.x-grid-row-focused .x-grid-cell,
+.x-grid-row-focused .x-grid-rowwrap-div {
+	background: none;
+}
+
+
+/* skos sources
+------------------------------ */
+
+.skos-source-list {
+	margin: 10px 0;
+}
+
+.skos-source-list li {
+	padding: 0 0 2px;
+}
+
+
+/* suggestions
+------------------------------ */
+
+.save-required .x-btn-inner {
+	font-weight: bold;
+}
+
+.suggestion-grid .x-grid-row-selected .x-grid-cell,
+.suggestion-grid .x-grid-row-selected .x-grid-rowwrap-div {
+	color: #090;
+}
+
+.x-grid-row-clicked .x-grid-cell,
+.x-grid-row-clicked .x-grid-rowwrap-div {	
+	color: #f00;	
+}
+
+.x-toolbar .save-success span {
+	color: #060;
+	font-weight: bold;
+}
+
+
+/* Document review
+------------------------------ */
+
+.textmatch {
+	position: relative;
+	background: #ccc;
+	line-height: 1.5;
+	padding: 0 4px;
+}
+
+.textmatch span {
+	margin: 0 -4px;
+}
+
+.textmatch-highlight,
+.textmatch-highlight span {
+	/*background: #039;*/
+	background: #f00;
+	color: #fff;	
+}
+
+.textmatch-selected,
+.textmatch-selected span {
+	background: #090;
+	color: #fff;	
+}
+
+
+/* Footer 
+------------------------------ */
+
+.footer-app {
+	background: none;
+}
+
+/* override the blue ExtJS footer background in IE8: */
+.x-panel .footer-app {
+	background-image:none!important;
+}
+
+.selected-job {
+	font-size: 12px;
+}
+
+.job-label {	
+	/*font-weight: bold;*/
+}
+
+
+/*
+------------------------------ */
+
+.x-btn-default-toolbar-large {
+	font-weight: bold;
+  border: 1px solid #81A4D0;
+}
+
+
+/*
+------------------------------ */
+
+.x-border-layout-ct {
+	background: #fff;
+}
+
+/* buttons*/
+/* */
+
+.x-box-inner .x-btn-default-small,
+.x-box-inner .x-btn-default-toolbar-small,
+.x-box-inner .x-btn-default-large,
+.x-box-inner .x-btn-default-toolbar-large {
+	background: #fff;
+	border-color: #81A4D0;
+	border-width: 1px!important;
+}
+
+.x-btn-default-small-over {
+	background-color: #EFF8F6!important;
+}
+
+.x-btn-default-toolbar-large-over {
+	background-color: #DFE8F6!important;
+} 
+
+.preview p {
+	line-height:1.5;
+}

@@ -1,0 +1,72 @@
+﻿@model Trezorix.Checkers.DocumentCheckerApp.Models.Documents.DocumentModel
+@{
+	ViewBag.Title = "Document details";
+}
+<h2>Details</h2>
+<fieldset>
+	<legend>Fields</legend>
+	<div class="display-label">Id:</div>
+	<div class="display-field">@Model.Id
+	</div>
+	<div class="display-label">Creation date:</div>
+	<div class="display-field">@Model.CreationDate</div>
+	<div class="display-label">Last modification date:</div>
+	<div class="display-field">@Model.ModificationDate</div>
+
+	<div class="display-label">SourceUri:</div>
+	<div class="display-field">@Model.SourceUri</div>
+	
+	<div class="display-label">Status:</div>
+	<div class="display-field">@Model.Status</div>
+
+	<fieldset>
+		<div class="display-label">Profile applied:</div>
+		<div class="display-field">@Model.AppliedProfileName</div>
+		<div class="display-label">Job label:</div>
+		<div class="display-field">@Model.JobLabel</div>
+	</fieldset>
+
+	<div class="display-label">Last error:</div>
+	<div class="display-field">@(Model.Document.Entity.LastError ?? "None")</div>
+</fieldset>
+<h3>Web Api:</h3>
+<ul>
+	<li>@Html.ActionLink("Get document data file", "Get", new { id = Model.Id }) </li>
+	<li>@Html.ActionLink("Document status", "Status", new { id = Model.Id })</li>
+	<li>@Html.ActionLink("Conversion result", "GetConversion", new { id = Model.Id })</li>
+	<li>@Html.ActionLink("Analysis result", "AnalysisResult", new { Controller = "Document", id = Model.Id })</li>
+	<li>@Html.RouteLink("Analysis preview", new { Action = "AnalysisResultRendering", Controller = "Review", id = Model.Id })</li>
+</ul>
+<hr />
+<h3>Document artifacts:</h3>
+@if (Model.Document.Artifacts.Count > 0)
+{
+	<ul>
+		@foreach (var artifact in Model.Document.Artifacts)
+		{
+			<li>
+				<fieldset>
+					<legend>Fields</legend>
+					<div class="display-label">Label:</div>
+					<div class="display-field">@(artifact.Key)</div>
+					<div class="display-label">ContentType:</div>
+					<div class="display-field">@artifact.ContentType</div>
+					<div class="display-label">Creation date:</div>
+					<div class="display-field">@artifact.CreationDate</div>
+					<div class="display-label">Physical path:</div>
+					<div class="display-field">@artifact.FilePathName</div>
+					<div class="display-label">Conversion error:</div>
+					<div class="display-field">@(artifact.Error ?? "None")</div>
+					@Html.ActionLink("Get artifact", "Artifact", new { id = Model.Id, key = artifact.Key })
+				</fieldset>
+			</li>
+		}
+	</ul>
+}
+else
+{
+	<div>None</div>
+}
+<p>
+	@Html.ActionLink("Back to List", "Index")
+</p>

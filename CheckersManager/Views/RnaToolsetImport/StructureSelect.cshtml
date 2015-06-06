@@ -1,0 +1,24 @@
+﻿@model Trezorix.Checkers.ManagerApp.Models.RnaToolsetImport.RnaToolsetModel
+@{
+    ViewBag.Title = "StructureSelect";
+}
+
+<h2>@Model.ToolsetUrl</h2>
+
+@using (Html.BeginForm("ImportStructureSelection", "RnaToolsetImport"))
+{
+    @Html.HiddenFor(m => m.ToolsetUrl);
+    @Html.HiddenFor(m => m.ApiKey);
+    <ul>
+    @for (int i = 0; i < Model.Structures.Count; i++)
+    {
+        var structure = Model.Structures[i];
+        <li>
+            @Html.CheckBoxFor(m => m.Structures[i].Selected) 
+            @Html.HiddenFor(m => m.Structures[i].Uri)
+            @structure.Uri - @structure.Label
+        </li>
+    }
+   </ul> 
+   <input type="submit" value="Import" />
+}

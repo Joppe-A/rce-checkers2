@@ -1,0 +1,18 @@
+﻿@model Trezorix.Checkers.ManagerApp.Models.SkosSourceRepository.SkosSourceEditModel
+
+<fieldset>
+    <legend>New skos source:</legend>
+    <div>Key: @Html.TextBoxFor(m => m.Key)</div>
+    <div>Label: @Html.TextBoxFor(m => m.Key)</div>
+    <fieldset>
+        <legend>Term enricher settings</legend>
+
+        @Html.CheckBoxFor(m => m.TermEnricherSettings.Enabled)
+
+        @Html.DropDownListFor(m => m.TermEnricherSettings.DictionaryCollectionName, Model.DictionaryCollections)
+
+    </fieldset>
+</fieldset>
+
+
+

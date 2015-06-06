@@ -1,0 +1,35 @@
+﻿@model Trezorix.Checkers.ManagerApp.Models.SkosSourceRepository.SkosSourceEditModel
+
+@{
+    ViewBag.Title = "Upload SKOS file";
+    Layout = "";
+}
+<html>
+<head runat="server">
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8" />
+    <link href="@Url.Content("~/Content/Static/css/documentchecker.css")" rel="stylesheet"/>
+    
+</head>
+<body>
+    <h2>SKOS index</h2>
+    
+    <form action="@Url.Action("Upload")" method="post" enctype="multipart/form-data">
+        
+        @{Html.RenderPartial("Create", Model);}
+
+        <fieldset>
+            <legend>Upload a SKOS file</legend>
+            <div class="row">
+                <label for="file">
+                    Upload:
+                </label>
+                <input type="file" name="indexfile" id="indexfile" />
+            </div>
+            <div class="row row-buttons">
+                <input type="submit" value="Upload" />
+            </div>
+        </fieldset>
+    </form>
+</body>
+</html>

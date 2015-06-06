@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Trezorix.Checkers.ManagerApp.Models.Enrichment.DictionaryCollectionModel>
+		   
+@{
+    ViewBag.Title = "SelectIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Select a dictionary collection</h2>
+<div>
+	<span>dictionarycollection</span>
+	<select name="dictionarycollection" id="dictionarycollectionSelect" onchange="navigateDictionaries()">
+		<option value="-1"></option>
+	@if (@Model != null)
+ {
+	 foreach (var mod in @Model)
+   {
+	   <option value="@mod.id">@mod.Name</option>
+   }
+ }
+	</select>
+</div>
+
+<script language="javascript" type="text/javascript">
+
+	function navigateDictionaries() {
+		var selectBox = document.getElementById("dictionarycollectionSelect");
+		var dictUrl = "@Url.Action("AddWord", "Enrichment")" + "/";
+		if (selectBox.value != "-1") {
+			dictUrl += selectBox.value;
+			window.location = dictUrl;
+		}
+	}
+
+</script>

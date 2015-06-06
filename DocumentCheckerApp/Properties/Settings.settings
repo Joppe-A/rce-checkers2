@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Trezorix.Checkers.DocumentCheckerApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="JavaVMExecutableFilePathName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\Java\jre7\bin\java.exe</Value>
+    </Setting>
+    <Setting Name="ConfigRoot" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">..\..</Value>
+    </Setting>
+    <Setting Name="TikaJarFilePathName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">lib\tika-app-1.4.jar</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

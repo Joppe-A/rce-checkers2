@@ -1,0 +1,575 @@
+<nodeList xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rna="http://www.rnaproject.org/data/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rnax="http://www.rnaproject.org/data/rnax/" contentItemUri="http://www.rnaproject.org/data/a95f566b-b1b7-4572-9cef-376467f37daa" contentItemName="Zoutwinning/moernering" rna:numberOfChildren="0">
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715">
+    <skos:prefLabel xml:lang="dut">Complextypen (ABR)</skos:prefLabel>
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/a5ba9e80-a6e7-4ec3-a334-bdbfe17f1038" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/814758d1-d604-4eea-ad62-8ec3b240a99a" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/ed4c47a9-43d7-4d8b-ad04-6d29ee36078b" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/5dd87b5f-44a1-4e70-87cb-eda52f71fb43" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/9ff1d478-3fef-4f99-937a-7e16cad51a0d" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/92c2fa66-e1c0-4e1c-b2e6-cd41d149bd57" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/9dbd7feb-308c-4f55-8ebe-49c66fd03f11" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/46619e7f-fc7b-4673-960c-21bce58ec688" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/8225d7d0-4571-45b9-8583-408953f72232" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/d35655b7-ef12-43d6-b0e8-7c6ca482a11a" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/cbd2d83f-34bf-483c-9f50-adb31db4a9d6" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/b24cbd0a-50db-461b-b3fe-b866cc272115" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/0f9d332d-863d-48ee-b9f5-33fd43691b36" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/302be93d-b7a1-4a1d-acec-7b95d2a355f3" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/fe16c420-3a7b-4445-83d0-f7bb8ba2068b" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/5a16cdc9-a6a6-414f-8f63-9ea942deadfa" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/40a4ceab-e5b3-48a8-9f24-fa403b1cd5a2" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/e7bb020f-d948-4588-b251-af4ce4cc8273" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/c6ebfbd8-1b7d-4836-8aa0-aefc930b53f0" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/9adf181a-22bf-41f7-add0-c467a567f72b" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/75740a99-af07-4f56-b9af-a85fabaa21db" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/adba1ae4-1bc9-4a66-905b-03d96dd11bf5" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/dd59ebbd-7144-41e5-8632-7d93da7cc7d7" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/17e8ea2d-43c8-4899-a93f-1aee2407083a" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/d96774b6-f753-42be-aa25-0ad656b20c71" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/d3c4dfac-2aa4-4013-8c7d-f788884acb09" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/953ba4d2-7800-42f6-85d8-db2b93c0b1e9" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/ce58d28c-3169-471a-a78c-5df7b67765ab" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/3bc12e46-674b-4a46-a4d8-bf3c44d0b489" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/dca937a6-c799-40d8-8781-43c397b9af2a" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/0142d9a6-8f8b-48e9-ba53-959023c84ab5" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/40e5f9ab-0dcb-4b5d-a591-6d59f0b6326f" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/016259b6-7087-4d57-a229-97809169cfb8" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/6f2381b9-9cb0-4008-b071-d62eb3ee18be" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/0795ec18-6e38-4440-b9b7-700e175ffd93" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/3c9478c2-e585-4f05-92e5-c5699e2dea77" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/63a98bc9-8330-4d44-a7a6-2636dee82353" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/a384bc4f-0e83-4450-bb06-84c99977c5c4" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/b2dbdf13-0391-43e6-a25e-6e8e7240bdd6" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/468fa902-b438-4eb3-98e1-43293bd107fe" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/81af8bfe-dee6-4de9-8f83-2f4f0fa87981" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/5b7ca982-d4e7-470e-8794-303838eff1ae" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/bda48f7a-abc5-42fe-bc40-27e8389753d2" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/0c45529c-a15f-424c-ba8f-e05bd0187980" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/f1bb3747-ef32-42f5-b63c-70ba93b87dec" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/8340b243-f01b-49f0-b6b9-b64b31c71734" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/51c4b5ca-82df-4e88-b938-094e044dd260" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/f704eeac-94eb-4d16-82a7-ac4dcfa5acec" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/e7c7a5f1-b9c4-48d0-8b95-59443eaeb6a3" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/d32d7d3b-a4f3-4e2a-b7cd-bf6c49ef6054" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/4620b96d-fa49-43ef-95e0-fb43f98b7403" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/ce483d2a-2029-4fab-918b-d90a26ccbd72" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/98645d39-c5fa-4c4f-9658-38a817a53c8d" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/9ad73efd-2fc9-4d13-a330-d0d58310ba16" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/ceaaa78f-05d2-4db6-9b31-2e8e181b8fd3" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/0d869d83-4032-4e69-9e2a-9a1896c9e58b" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/2f6d6a3b-7cd5-443f-8a05-93b24afe9376" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/8168212d-ea8f-4cfa-b16a-6dd27553caa1" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/a27b5bbe-9c9f-41b1-baf0-03a9380f3537" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/88cb81eb-f61e-47e6-9488-0693cc0bcc54" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/732015dd-10fb-4a8b-8081-a92b3efe3126" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/1f207444-960c-441d-b5d2-1f21c22c9d67" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/6876c8ff-7a1e-44e1-bb15-a675aaa93107" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/a4635d66-3d6f-490b-bdab-ce47d19e9f3c" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/2ee84c92-1d21-4ab9-a0c2-0a9e047ea44e" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/3d934e2e-5085-4b65-b860-ead6016ad8c2" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/0dbd5602-7356-4e1c-a697-6d0797802fd3" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/afd55505-862e-43d1-8240-863b5bbe868d" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/5549e54f-e416-4d16-afcc-e04f095e6f22" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/b3233e8d-6a14-4f94-ae93-c48e7dcb765d" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/d99dcb22-eed7-4d34-b0ff-a2fd93dda01e" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/6fcd2f58-56af-4c90-8fbe-dbab96f95875" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/2ab97a4e-135b-4980-8e4d-5bbc5b746bd5" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/295317e4-ddaa-4df6-ac09-60b93cb34659" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/db58962d-9b4f-4189-95a7-4b8a8284a851" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/be50473a-748c-40e4-9878-c37c4cae48a9" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/3a6ed9c7-b61f-41b4-a3fa-efe9b4c0892b" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/86cc404e-e1ad-4557-9b8f-fee8bb5c0a9a" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/09ba2ae5-98e3-4963-84e3-c84a356a3f23" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/5a79c8d9-4318-4c4f-94eb-4bb7a8990262" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/8299a74e-ed4b-4e9e-87c5-5b783eff22d7" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/3c4d3976-b19e-4447-b6d5-70f442797fb9" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/b0f8d65d-9134-4691-81c7-a66cad0885b4" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/0aae42fa-b141-4518-9cde-73930f3bc914" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/25aa8a93-b2ad-4fa2-9c6e-bab38806a43a" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/dc0d277f-76a9-4a34-a5c5-7bf480f6ab62" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/1375db0f-d402-46e2-b2ef-6412a21c6de3" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/c2aa3b60-96a7-4d5f-b891-eedcca56dfd1" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/e72f7f49-6962-4f5d-8f96-fda650bc215e" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/c2d3dddc-9f14-4803-9a8c-4d5633a7f913" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/1a2eb709-ee8f-464c-b687-ac9d70fdb421" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/20d58c3b-2ec4-48ad-81ca-4b989f3426cd" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/73a81d12-1510-4f7b-9e38-ce541bee820d" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/3994f714-9ef7-44fc-9016-2074a84fbab8" />
+    <skos:narrower rdf:resource="http://www.rnaproject.org/data/9f21c631-85b9-4f0f-be45-22883588c271" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/a5ba9e80-a6e7-4ec3-a334-bdbfe17f1038">
+    <skos:prefLabel xml:lang="dut">Akker/tuin</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">ELA</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/814758d1-d604-4eea-ad62-8ec3b240a99a">
+    <skos:prefLabel xml:lang="dut">Basiskamp/-nederzetting</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NBAS</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/ed4c47a9-43d7-4d8b-ad04-6d29ee36078b">
+    <skos:prefLabel xml:lang="dut">Beenbewerking</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EIBB</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/5dd87b5f-44a1-4e70-87cb-eda52f71fb43">
+    <skos:prefLabel xml:lang="dut">Borg/stins/versterkt huis</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NVB</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/9ff1d478-3fef-4f99-937a-7e16cad51a0d">
+    <skos:prefLabel xml:lang="dut">Brouwerij</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EIB</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/92c2fa66-e1c0-4e1c-b2e6-cd41d149bd57">
+    <skos:prefLabel xml:lang="dut">Brug</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IBRU</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/9dbd7feb-308c-4f55-8ebe-49c66fd03f11">
+    <skos:prefLabel xml:lang="dut">Celtic field/raatakker</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">ELCF</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/46619e7f-fc7b-4673-960c-21bce58ec688">
+    <skos:prefLabel xml:lang="dut">Crematiegraf</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GC</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/8225d7d0-4571-45b9-8583-408953f72232">
+    <skos:prefLabel xml:lang="dut">Cultusplaats/heiligdom/tempel</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">RCP</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/d35655b7-ef12-43d6-b0e8-7c6ca482a11a">
+    <skos:prefLabel xml:lang="dut">Dam</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IDAM</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/cbd2d83f-34bf-483c-9f50-adb31db4a9d6">
+    <skos:prefLabel xml:lang="dut">Depot</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">DEPO</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/b24cbd0a-50db-461b-b3fe-b866cc272115">
+    <skos:prefLabel xml:lang="dut">Dierengraf</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GD</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/0f9d332d-863d-48ee-b9f5-33fd43691b36">
+    <skos:prefLabel xml:lang="dut">Dijk</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IDIJ</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/302be93d-b7a1-4a1d-acec-7b95d2a355f3">
+    <skos:prefLabel xml:lang="dut">Drenkplaats/dobbe</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">ELDP</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/fe16c420-3a7b-4445-83d0-f7bb8ba2068b">
+    <skos:prefLabel xml:lang="dut">Duiker</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IDUI</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/5a16cdc9-a6a6-414f-8f63-9ea942deadfa">
+    <skos:prefLabel xml:lang="dut">Economie, onbepaald</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/40a4ceab-e5b3-48a8-9f24-fa403b1cd5a2">
+    <skos:prefLabel xml:lang="dut">Eendenkooi</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">ELEK</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/e7bb020f-d948-4588-b251-af4ce4cc8273">
+    <skos:prefLabel xml:lang="dut">Extractiekamp/-nederzetting</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NEXT</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/c6ebfbd8-1b7d-4836-8aa0-aefc930b53f0">
+    <skos:prefLabel xml:lang="dut">Gemaal</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IGEM</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/9adf181a-22bf-41f7-add0-c467a567f72b">
+    <skos:prefLabel xml:lang="dut">Glasblazerij</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EIGB</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/75740a99-af07-4f56-b9af-a85fabaa21db">
+    <skos:prefLabel xml:lang="dut">Graf, onbepaald</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/adba1ae4-1bc9-4a66-905b-03d96dd11bf5">
+    <skos:prefLabel xml:lang="dut">Grafheuvel, crematie</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GHC</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/dd59ebbd-7144-41e5-8632-7d93da7cc7d7">
+    <skos:prefLabel xml:lang="dut">Grafheuvel, gemengd</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GHIC</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/17e8ea2d-43c8-4899-a93f-1aee2407083a">
+    <skos:prefLabel xml:lang="dut">Grafheuvel, inhumatie</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GHI</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/d96774b6-f753-42be-aa25-0ad656b20c71">
+    <skos:prefLabel xml:lang="dut">Grafheuvel, onbepaald</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GHX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/d3c4dfac-2aa4-4013-8c7d-f788884acb09">
+    <skos:prefLabel xml:lang="dut">Grafveld, crematies</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GVC</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/953ba4d2-7800-42f6-85d8-db2b93c0b1e9">
+    <skos:prefLabel xml:lang="dut">Grafveld, gemengd</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GVIC</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/ce58d28c-3169-471a-a78c-5df7b67765ab">
+    <skos:prefLabel xml:lang="dut">Grafveld, inhumaties</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GVI</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/3bc12e46-674b-4a46-a4d8-bf3c44d0b489">
+    <skos:prefLabel xml:lang="dut">Grafveld, onbepaald</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GVX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/dca937a6-c799-40d8-8781-43c397b9af2a">
+    <skos:prefLabel xml:lang="dut">Grondstofwinning</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EGX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/0142d9a6-8f8b-48e9-ba53-959023c84ab5">
+    <skos:prefLabel xml:lang="dut">Haven</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IHAV</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/40e5f9ab-0dcb-4b5d-a591-6d59f0b6326f">
+    <skos:prefLabel xml:lang="dut">Havezathe/ridderhofstad</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NVH</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/016259b6-7087-4d57-a229-97809169cfb8">
+    <skos:prefLabel xml:lang="dut">Houtbewerking</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EIHB</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/6f2381b9-9cb0-4008-b071-d62eb3ee18be">
+    <skos:prefLabel xml:lang="dut">Houtskool-/kolenbranderij</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EIHK</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/0795ec18-6e38-4440-b9b7-700e175ffd93">
+    <skos:prefLabel xml:lang="dut">Huisplaats, onverhoogd</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NHP</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/3c9478c2-e585-4f05-92e5-c5699e2dea77">
+    <skos:prefLabel xml:lang="dut">Huisterp</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NHT</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/63a98bc9-8330-4d44-a7a6-2636dee82353">
+    <skos:prefLabel xml:lang="dut">IJzerwinning</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EGYW</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/a384bc4f-0e83-4450-bb06-84c99977c5c4">
+    <skos:prefLabel xml:lang="dut">Industrie/nijverheid</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EIX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/b2dbdf13-0391-43e6-a25e-6e8e7240bdd6">
+    <skos:prefLabel xml:lang="dut">Infrastructuur, onbepaald</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/468fa902-b438-4eb3-98e1-43293bd107fe">
+    <skos:prefLabel xml:lang="dut">Inhumatiegraf</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GI</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/81af8bfe-dee6-4de9-8f83-2f4f0fa87981">
+    <skos:prefLabel xml:lang="dut">Kalkbranderij</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EIKB</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/5b7ca982-d4e7-470e-8794-303838eff1ae">
+    <skos:prefLabel xml:lang="dut">Kampdorp</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NKD</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/bda48f7a-abc5-42fe-bc40-27e8389753d2">
+    <skos:prefLabel xml:lang="dut">Kanaal</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IKAN</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/0c45529c-a15f-424c-ba8f-e05bd0187980">
+    <skos:prefLabel xml:lang="dut">Kapel</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">RKAP</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/f1bb3747-ef32-42f5-b63c-70ba93b87dec">
+    <skos:prefLabel xml:lang="dut">Kasteel</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">VK</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/8340b243-f01b-49f0-b6b9-b64b31c71734">
+    <skos:prefLabel xml:lang="dut">Kerk</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">RKER</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/51c4b5ca-82df-4e88-b938-094e044dd260">
+    <skos:prefLabel xml:lang="dut">Kerkhof</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GVIK</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/f704eeac-94eb-4d16-82a7-ac4dcfa5acec">
+    <skos:prefLabel xml:lang="dut">Kleiwinning</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EGKW</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/e7c7a5f1-b9c4-48d0-8b95-59443eaeb6a3">
+    <skos:prefLabel xml:lang="dut">Klooster(complex)</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">RKLO</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/d32d7d3b-a4f3-4e2a-b7cd-bf6c49ef6054">
+    <skos:prefLabel xml:lang="dut">Landbouw</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">ELX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/4620b96d-fa49-43ef-95e0-fb43f98b7403">
+    <skos:prefLabel xml:lang="dut">Landweer</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">VLW</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/ce483d2a-2029-4fab-918b-d90a26ccbd72">
+    <skos:prefLabel xml:lang="dut">Leerlooierij</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EILL</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/98645d39-c5fa-4c4f-9658-38a817a53c8d">
+    <skos:prefLabel xml:lang="dut">Legerplaats</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">VLP</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/9ad73efd-2fc9-4d13-a330-d0d58310ba16">
+    <skos:prefLabel xml:lang="dut">Megalietgraf</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GMEG</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/ceaaa78f-05d2-4db6-9b31-2e8e181b8fd3">
+    <skos:prefLabel xml:lang="dut">Mergel-/kalkwinning</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EGMW</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/0d869d83-4032-4e69-9e2a-9a1896c9e58b">
+    <skos:prefLabel xml:lang="dut">Metaalbewerking/smederij</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EIMB</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/2f6d6a3b-7cd5-443f-8a05-93b24afe9376">
+    <skos:prefLabel xml:lang="dut">Moated site</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NMS</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/8168212d-ea8f-4cfa-b16a-6dd27553caa1">
+    <skos:prefLabel xml:lang="dut">Molen</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EIM</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/a27b5bbe-9c9f-41b1-baf0-03a9380f3537">
+    <skos:prefLabel xml:lang="dut">Motte/kasteelheuvel/vliedberg</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">VKM</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/88cb81eb-f61e-47e6-9488-0693cc0bcc54">
+    <skos:prefLabel xml:lang="dut">Nederzetting, onbepaald</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/732015dd-10fb-4a8b-8081-a92b3efe3126">
+    <skos:prefLabel xml:lang="dut">Niet van toepassing</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">---</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/1f207444-960c-441d-b5d2-1f21c22c9d67">
+    <skos:prefLabel xml:lang="dut">Onbekend</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">XXX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/6876c8ff-7a1e-44e1-bb15-a675aaa93107">
+    <skos:prefLabel xml:lang="dut">Percelering/verkaveling</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IPER</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/a4635d66-3d6f-490b-bdab-ce47d19e9f3c">
+    <skos:prefLabel xml:lang="dut">Pottenbakkerij</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EIPB</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/2ee84c92-1d21-4ab9-a0c2-0a9e047ea44e">
+    <skos:prefLabel xml:lang="dut">Religie, onbepaald</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">RX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/3d934e2e-5085-4b65-b860-ead6016ad8c2">
+    <skos:prefLabel xml:lang="dut">Rijengrafveld</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GVIR</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/0dbd5602-7356-4e1c-a697-6d0797802fd3">
+    <skos:prefLabel xml:lang="dut">Romeins villa(complex)</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NRV</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/afd55505-862e-43d1-8240-863b5bbe868d">
+    <skos:prefLabel xml:lang="dut">Schans</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">VSCH</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/5549e54f-e416-4d16-afcc-e04f095e6f22">
+    <skos:prefLabel xml:lang="dut">Scheepvaart</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">ESCH</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/b3233e8d-6a14-4f94-ae93-c48e7dcb765d">
+    <skos:prefLabel xml:lang="dut">Sluis</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">ISLU</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/d99dcb22-eed7-4d34-b0ff-a2fd93dda01e">
+    <skos:prefLabel xml:lang="dut">Smelterij</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EISM</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/6fcd2f58-56af-4c90-8fbe-dbab96f95875">
+    <skos:prefLabel xml:lang="dut">Stad</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NS</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/2ab97a4e-135b-4980-8e4d-5bbc5b746bd5">
+    <skos:prefLabel xml:lang="dut">Steen-/pannenbakkerij</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EISB</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/295317e4-ddaa-4df6-ac09-60b93cb34659">
+    <skos:prefLabel xml:lang="dut">Steiger</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">ISTE</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/db58962d-9b4f-4189-95a7-4b8a8284a851">
+    <skos:prefLabel xml:lang="dut">Terp/wierde</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NT</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/be50473a-748c-40e4-9878-c37c4cae48a9">
+    <skos:prefLabel xml:lang="dut">Textielnijverheid</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EITN</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/3a6ed9c7-b61f-41b4-a3fa-efe9b4c0892b">
+    <skos:prefLabel xml:lang="dut">Urnenveld</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GVCU</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/86cc404e-e1ad-4557-9b8f-fee8bb5c0a9a">
+    <skos:prefLabel xml:lang="dut">Veekraal/schaapskooi</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">ELVK</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/09ba2ae5-98e3-4963-84e3-c84a356a3f23">
+    <skos:prefLabel xml:lang="dut">Veenweg/veenbrug</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IVW</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/5a79c8d9-4318-4c4f-94eb-4bb7a8990262">
+    <skos:prefLabel xml:lang="dut">Veenwinning</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EGVW</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/8299a74e-ed4b-4e9e-87c5-5b783eff22d7">
+    <skos:prefLabel xml:lang="dut">Versterking, onbepaald</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">VX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/3c4d3976-b19e-4447-b6d5-70f442797fb9">
+    <skos:prefLabel xml:lang="dut">Visserij</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EVX</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/b0f8d65d-9134-4691-81c7-a66cad0885b4">
+    <skos:prefLabel xml:lang="dut">Vlakgraf, crematie</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GCV</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/0aae42fa-b141-4518-9cde-73930f3bc914">
+    <skos:prefLabel xml:lang="dut">Vlakgraf, inhumatie</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GIV</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/25aa8a93-b2ad-4fa2-9c6e-bab38806a43a">
+    <skos:prefLabel xml:lang="dut">Vlakgraf, onbepaald</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">GXV</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/dc0d277f-76a9-4a34-a5c5-7bf480f6ab62">
+    <skos:prefLabel xml:lang="dut">Vuursteenbewerking</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EIVB</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/1375db0f-d402-46e2-b2ef-6412a21c6de3">
+    <skos:prefLabel xml:lang="dut">Vuursteenwinning</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EGVU</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/c2aa3b60-96a7-4d5f-b891-eedcca56dfd1">
+    <skos:prefLabel xml:lang="dut">Wachtpost</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">VWP</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/e72f7f49-6962-4f5d-8f96-fda650bc215e">
+    <skos:prefLabel xml:lang="dut">Wal/omwalling</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">VWAL</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/c2d3dddc-9f14-4803-9a8c-4d5633a7f913">
+    <skos:prefLabel xml:lang="dut">Wal-/vluchtburcht</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">VWB</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/1a2eb709-ee8f-464c-b687-ac9d70fdb421">
+    <skos:prefLabel xml:lang="dut">Waterburcht</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">VKW</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/20d58c3b-2ec4-48ad-81ca-4b989f3426cd">
+    <skos:prefLabel xml:lang="dut">Waterweg (natuurlijk)</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IWAT</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/73a81d12-1510-4f7b-9e38-ce541bee820d">
+    <skos:prefLabel xml:lang="dut">Weg</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">IWEG</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/3994f714-9ef7-44fc-9016-2074a84fbab8">
+    <skos:prefLabel xml:lang="dut">Wegdorp</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">NWD</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.rnaproject.org/data/9f21c631-85b9-4f0f-be45-22883588c271">
+    <skos:prefLabel xml:lang="dut">Zoutwinning/moernering</skos:prefLabel>
+    <skos:prefLabel xml:lang="c01">EGZW</skos:prefLabel>
+    <skos:broader rdf:resource="http://www.rnaproject.org/data/8e91a1f4-8484-496b-8cb5-f94deafab715" />
+  </skos:Concept>
+</nodeList>

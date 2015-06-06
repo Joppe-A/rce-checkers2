@@ -1,0 +1,26 @@
+﻿@model Trezorix.Checkers.DocumentCheckerApp.Models.Documents.DocumentModel
+
+@{
+	ViewBag.Title = "Upload";
+}
+
+<h2>Upload</h2>
+
+<form action="@Url.Action("Upload", "Document")" method="post" enctype="multipart/form-data">
+	@Html.ValidationSummary()
+
+	<fieldset>
+		<legend>Fields</legend>
+		<div class="row">
+			<label for="file">File to convert:</label>
+			<input type="file" name="file" id="file" />
+		</div>
+		<div class="row row-buttons">
+			<input type="submit" value="Upload" />
+		</div>
+	</fieldset>
+</form>
+
+<div>
+	@Html.ActionLink("Back to List", "Index")
+</div>

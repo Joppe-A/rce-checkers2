@@ -1,0 +1,34 @@
+Checkers 2
+   
+Copyright 2013 Cultural Heritage Agency of the Netherlands, 
+	Dutch National Military Museum and Trezorix bv.
+
+This product was developed by Trezorix bv, parts of it were funded 
+by the Cultural Heritage Agency of the Netherlands 
+and the Dutch National Military Museum.
+
+This product currently contains proprietary libraries developed 
+at Trezorix bv. These libraries can be freely distributed and used without 
+limitations. Source code is currently not available with the future intention 
+to remove usage of these libraries.
+
+This product includes and makes use of software developed 
+at The Apache Software Foundation (http://www.apache.org/).
+
+The DocumentCheckerApp part of this product makes use of Sench Ext Js licensed 
+under GPL 3.0 while making use of the 'exception for applications' applicable 
+to Apache License 2.0 licensed open source software. ExtJs licensing 
+terms and options can be found at the following address: 
+http://www.sencha.com/products/extjs/license/
+
+This product uses: 
+- Apache Tika with Apache License 2.0.
+- Apache SOLR with Apache License 2.0.
+- ELMAH with Apache License 2.0.
+- jQuery with MIT license.
+- Moq with BSD license.
+- Mvc3Futures with MS-PL license.
+- MvcContrib with Apache License 2.0.
+- NUnit with a proprietary permissive license.
+- Rhino Mocks with a BSD license.
+

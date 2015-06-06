@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+	<head runat="server">	
+		<title>@ViewBag.Title</title>
+		<meta charset="utf-8" />
+		@*
+		<link rel="stylesheet" href="http://cdn.trezorix.org/ext/3.3.1/resources/css/ext-all.css" />
+		<link href="@Url.Content("~/Content/Static/css/documentchecker.css")" rel="stylesheet"/>
+		*@
+		<style type="text/css">
+			div.operationResult
+			{
+				border: 2px dashed Green;
+				padding: 5px;
+				margin: 5px;
+			}
+			ul.menu
+			{
+			    list-style: none;
+			    padding-left: 0;
+			    margin-bottom: 15px;
+			}
+			ul.menu li
+			{
+			    display:inline;
+			    padding-left: 5px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Document checker</h1>
+        <div class="main-content">
+			@RenderBody()
+		</div>			
+@*
+		<script src="http://cdn.trezorix.org/ext/3.3.1/adapter/ext/ext-base.js"></script>
+		<script src="http://cdn.trezorix.org/ext/3.3.1/ext-all.js"></script>		
+		<script>
+			Ext.BLANK_IMAGE_URL = "http://cdn.trezorix.org/ext/3.3.1/resources/images/default/s.gif";
+		</script>
+		<!-- Ext ux -->
+		<script src="http://cdn.trezorix.org/ext/3.3.1/examples/ux/fileuploadfield/FileUploadField.js"></script>
+		<!-- tika app -->
+		<script src="@Url.Content("~/Content/Static/js/documentchecker.js")"></script>*@
+	</body>
+</html>
+

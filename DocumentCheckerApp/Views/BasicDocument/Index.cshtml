@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Resource<Document>>
+		   
+@using Trezorix.Checkers.DocumentCheckerApp.Helpers;
+@using Trezorix.Checkers.DocumentChecker;
+@using Trezorix.ResourceRepository;
+@using Trezorix.Checkers.DocumentChecker.Documents;
+
+<div>
+	<table class="document-list">
+		<thead>
+            <tr>
+                <th>id</th>
+                <th>filename</th>
+                <th>status</th>
+                <th>creation</th>
+                <th>modification</th>
+                <th>operations</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+		{
+			<tr>
+				<td class="document-id">
+                    @item.Id
+                </td>
+                <td class="document-name">
+					@Html.ActionLink(item.FileName, "Details", new { id = item.Id })
+				</td>
+				<td class="document-status">
+					@item.Entity.Status.AsText()
+				</td>
+				<td class="document-created">
+                    @item.CreationDate
+                </td>
+                <td class="document-modified">
+                    @item.ModificationDate
+                </td>
+                <td class="document-operations">
+					@Html.RouteLink("Preview result", new { Controller = "Review", Action = "AnalysisResultRendering", id = item.Id })
+                    @using(Html.BeginForm(new { Action = "ReAnalyse", id = item.Id }))
+                    {
+                        <input type="submit" class="button button-reanalyse" value="Re-Analyse" />
+                    }
+                    <span class="button button-delete">@Html.ActionLink("Delete", "Delete", new { id = item.Id })</span>
+                </td>
+			</tr>
+		}
+        </tbody>
+        
+	</table>
+	<div>
+		<span class="button button-add">@Html.ActionLink("Create new", "Upload")</span>
+	</div>
+		
+</div>

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Trezorix.Checkers.ManagerApp.Models.Enrichment.DictionaryModel>
+		   
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Enrichment</h2>
+<form method="post" action="@Url.Action("Create")">
+<div>
+	@if (@Model != null)
+  {
+	<div>
+		<span>Dictionary</span>
+	    <select name="dictionary">
+	    @foreach (var dictionary in @Model)
+        {
+		    <option value="@dictionary.id">@dictionary.Name</option>
+        }
+	    </select>
+	</div>
+	<div>
+		<span>Term</span>
+		<input name="term" type="text" />
+	</div>
+	<div>
+		<input type="submit" value="Make" />
+	</div>
+  }
+  else
+  {
+	  <p>You need to specify a dictionary collection</p>
+	 
+  }
+</div>
+</form>

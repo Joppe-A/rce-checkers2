@@ -1,0 +1,59 @@
+﻿@model ProfileEditModel
+
+@using Trezorix.Checkers.ManagerApp.Models.Profile;
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit profile @Model.Key</h2>
+
+@Html.ValidationSummary(false, "Could not update profile:")
+
+@using (Html.BeginForm(new { Action = "Edit" }))
+{
+    @Html.HiddenFor(m => m.Id);
+    
+    if (Model.Id != null)
+    {
+        <div>Id: @Model.Id</div>
+    }
+    <div>Naam: @Html.EditorFor(m => m.Key)</div>
+
+    <div>Language: @Html.EditorFor(m => m.Language)</div>
+                     
+    <table>
+        <thead>
+            <tr>
+                <th colspan="2">Skos source</th>    
+            </tr>
+            <tr>
+                <th>Enabled</th>
+                <th>Label</th>
+                <th>Id</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (var i = 0; i < Model.Bindings.Count; i++)
+            {
+                <tr>
+                    <td>
+                        @Html.CheckBoxFor(m => m.Bindings[i].Enabled)
+                        @Html.HiddenFor(m => m.Bindings[i].Key)
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(m => m.Bindings[i].Label)
+                    </td>
+                    <td>
+                        @Model.Bindings[i].Key
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <input type="submit" value="Save" />
+    <input type="reset" value="Reset" />
+}
+  
+

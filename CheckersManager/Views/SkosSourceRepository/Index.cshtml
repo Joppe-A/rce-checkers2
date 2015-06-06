@@ -1,0 +1,113 @@
+﻿@model Trezorix.Checkers.ManagerApp.Models.SkosSourceRepository.SkosSourceIndexModel
+
+@{
+	ViewBag.Title = "Index";
+}
+
+@if (TempData["OperationResult"] != null)
+{
+	<div class="operationResult">@TempData["OperationResult"]</div>
+}
+
+<h2>SKOS Repository</h2>
+
+@Html.ValidationSummary(false, "Can't update skos source")
+
+@foreach(var skos in Model.SkosSources)
+{
+	<table class="skos-source">
+		<tbody>
+			<tr>
+				<td>
+					@using (Html.BeginForm("Edit", "SkosSourceRepository"))
+					{
+						Html.RenderPartial("Edit", skos);
+						<input type="submit" value="Update settings" />
+					}
+				</td>
+				<td>
+					<div>Modification date: @skos.ModificationDate</div>
+					<div>Source uri: @skos.SourceUri</div>
+					<div>Status: @skos.Status</div>
+					<div>LastError: @skos.LastError</div>
+				</td>
+				<td>
+					Operations:
+					<ul>
+						<li>
+							@using (Html.BeginForm(new { Action = "SendToSolrIndex", id = skos.Id }))
+							{
+								<input type="submit" value="Add skos to Solr index" />
+							}
+						</li>
+						<li>
+							@using (Html.BeginForm(new { Action = "RecreateSolrFeed", id = skos.Id }))
+							{
+								<input type="submit" value="(Re)construct Solr feed" />
+							}
+						</li>
+						<li>
+							@Html.ActionLink("Delete", "Delete", new { id = skos.Id })
+						</li>
+					</ul>
+				</td>
+			</tr>
+			<tr >
+				<td>
+					View: 
+				</td>
+				<td>
+					@Html.ActionLink("Skos source", "Skos", new { id = skos.Id }) - @Html.ActionLink("Solr update feed", "SolrFeed", new { id = skos.Id })
+				<td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					Repository ID: @skos.Id
+				</td>
+			</tr>
+		</tbody>
+	</table>
+}
+<hr />
+	
+@Html.ActionLink("Upload skos", "Upload") - @Html.ActionLink("Download skos", "Download")
+
+<fieldset>
+	<legend>Solr index options:</legend>
+	<ul>
+		<li>
+		    @using (Html.BeginForm(new { Action = "ClearSolrIndex" }))
+		    {
+			    <input type="submit" value="Clear Solr index" />
+		    }
+		</li>
+		<li>
+			@using (Html.BeginForm(new { Action = "RecreateAllSolrFeeds" }))
+			{
+				<input type="submit" value="Recreate all Solr feeds (without resending)." />
+			}
+		</li>
+		<li>
+		@using (Html.BeginForm(new { Action = "SendAllToSolrIndex" }))
+		{
+			<input type="submit" value="Create Solr index from this repository (using current Solr feeds)" />
+		}
+		</li>
+	</ul>
+
+</fieldset>
+<fieldset>
+	<legend>Import structures from RnaToolset</legend>
+	@using (Html.BeginForm("StructureImportSelect", "RnaToolsetImport"))
+	{
+		/* 
+		 * http://rce.rnatoolset.net/ 
+		 * api_key=e22085bb3e1b4b5f8b49e6ddf015a1cc 
+		 */
+		<input class="url" type="text" value="http://" name="toolsetUrl" />
+		<input class="apiKey" type="text" name="apikey" />
+		<input type="submit" value="Import" />
+	}
+</fieldset>
+
+

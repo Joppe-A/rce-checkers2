@@ -1,0 +1,140 @@
+body
+{
+    font-size: .85em;
+    font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
+    color: #232323;
+    background-color: #fff;
+}
+
+header,
+footer,
+nav,
+section {
+    display: block;
+}
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+
+fieldset 
+{
+    border:1px solid #ddd;
+    padding:0 1.4em 1.4em 1.4em;
+    margin:0 0 1.5em 0;
+}
+
+legend 
+{
+    font-size:1.2em;
+    font-weight: bold;
+}
+
+textarea 
+{
+    min-height: 75px;
+}
+
+.editor-label 
+{
+    margin: 1em 0 0 0;
+}
+
+.editor-field 
+{
+    margin:0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+
+/* mine */
+
+table
+{
+	border: 1px solid Grey;
+}
+
+td
+{
+	border: 1px solid Grey;
+	padding: 5px;
+}
+
+/* skos-repository upload and download view */
+.validation-summary-errors
+{
+    border: 1px dashed red;
+    margin: 5px;
+}
+fieldset input#SkosSourceId
+{
+    width: 400px;
+}
+input#download
+{
+    width: 100%;
+}
+input#indexfile
+{
+    width: 600px;
+}
+
+table
+{
+    width: 100%
+}
+
+table.skos-source
+{
+    margin-bottom: 25px;
+}
+
+/* general */
+fieldset
+{
+    padding: 5px;
+}
+
+
+/* download */
+input#download
+{
+    width: 90%;
+}
+
+input#Key
+{
+    width: 95%
+}
+
+input.url
+{
+    width: 80%;
+}

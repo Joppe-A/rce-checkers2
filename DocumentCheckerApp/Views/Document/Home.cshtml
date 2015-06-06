@@ -1,0 +1,54 @@
+﻿@{
+	Layout = null;
+}
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Document Checker</title>
+
+		<!--<link rel="stylesheet" href="Static/ext/resources/css/ext-all.css" />-->
+		<link rel="stylesheet" href="http://cdn.trezorix.org/ext/4.0.1/resources/css/ext-all.css" />
+		<link rel="stylesheet" href="Static/css/Styles.css" />
+	</head>
+	<body>
+	
+		<!-- Development scripts (local) -->										
+		<!-- <script src="Static/ext/ext-debug.js"></script>  Development script with dynamic loading -->
+		<!-- <script src="Static/ext/ext-all-debug.js"></script> Development script including all ExtJS classes -->
+		<script src="Static/lib/ext/4.0.1/ext-all.js"></script>
+
+		<script>
+			Ext.Loader.setConfig({
+				enabled: true,
+				paths: {					
+					'DC': 'Static/js'
+				}
+			});
+
+			/*						
+			Ext.require([						
+				'Ext.container.Viewport',
+				'Ext.layout.container.Border',
+				'Ext.layout.container.Card',
+				'Ext.selection.CheckboxModel',
+				'Ext.toolbar.TextItem',
+				'Ext.form.CheckboxGroup',
+				'Ext.form.field.Checkbox',
+				'Ext.form.field.File',
+				'Ext.form.field.ComboBox',
+				'Ext.grid.column.Date',
+				'Ext.grid.column.Template'				
+			]);
+			*/		
+		</script>
+											
+		<script src="Static/js/App.js"></script>
+								
+		<!-- Production scripts -->
+		<!--
+		<script src="Static/lib/ext/4.0.1/ext.js"></script>		
+		<script src="Static/js/app-all.js"></script>
+		-->
+	
+	</body>
+</html>

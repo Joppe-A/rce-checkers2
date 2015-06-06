@@ -1,0 +1,43 @@
+<!-- 
+  Copyright 2013 Cultural Heritage Agency of the Netherlands, Dutch National Military Museum and Trezorix bv
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+-->
+<Project DefaultTargets="PackageRelease" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MSBuildCommunityTasks\MSBuild.Community.Tasks.Targets" />
+  <PropertyGroup>
+    <OutputPath>$(teamcity_build_workingDir)\trunk\_pickup</OutputPath>
+    <PickupPath>$(OutputPath)\_PublishedWebsites</PickupPath>
+  </PropertyGroup>
+  <Target Name="PackageRelease">
+    <MSBuild Projects=".\DocumentCheckerApp\DocumentCheckerApp.csproj;.\CheckersManager\CheckersManager.csproj;" 
+             ContinueOnError="false" 
+             Targets="_WPPCopyWebApplication" 
+             Properties="Configuration=$(Configuration);OutputPath=$(OutputPath)" 
+            />
+    <CallTarget Targets="ZipPackage"  />
+  </Target>
+  <Target Name="ZipPackage">
+    <ItemGroup>
+      <PackageFiles Include="$(PickupPath)\**\*.*" />
+    </ItemGroup>
+
+    <Zip Files="@(PackageFiles)" 
+          WorkingDirectory="$(PickupPath)" 
+          ZipFileName="$(teamcity_build_workingDir)\Checkers2_$(version).zip" />
+    <Copy SourceFiles="$(teamcity_build_workingDir)\Checkers2_$(version).zip"
+            DestinationFolder="$(packageRepositoryPath)\Checkers2"
+    />
+  </Target>
+</Project>

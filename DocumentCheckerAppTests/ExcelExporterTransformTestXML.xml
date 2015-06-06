@@ -1,0 +1,660 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExportModel xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Trezorix.Checkers.DocumentCheckerApp.Export">
+  <Documents>
+    <DocumentExportModel>
+      <CreationDate>2011-08-22T13:22:22.5436493Z</CreationDate>
+      <FileName>Arma 04    De ontwikkeling van de Nederlandse gevechtswagens.doc</FileName>
+      <JobLabel>All</JobLabel>
+      <ModificationDate>2011-08-22T13:22:36.9580493Z</ModificationDate>
+      <SkosSourceResults>
+        <SkosSourceResult>
+          <Literals>Majoor|Officier</Literals>
+          <SkosSourceId>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/d4281332-307d-410b-a5e6-ded506a6dec1|http://www.rnaproject.org/data/274982c9-4ada-4618-a910-c291e43f2e54</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Majoor|Officier</Literals>
+          <SkosSourceId>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/d4281332-307d-410b-a5e6-ded506a6dec1|http://www.rnaproject.org/data/274982c9-4ada-4618-a910-c291e43f2e54</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+      </SkosSourceResults>
+      <SourceUri>Arma 04    De ontwikkeling van de Nederlandse gevechtswagens.doc</SourceUri>
+    </DocumentExportModel>
+    <DocumentExportModel>
+      <CreationDate>2011-08-08T12:34:19.9336645Z</CreationDate>
+      <FileName>Arma 05    Koninkrijk Holland 1806-1810.doc</FileName>
+      <JobLabel>All</JobLabel>
+      <ModificationDate>2011-08-08T12:35:44.8091512Z</ModificationDate>
+      <SkosSourceResults>
+        <SkosSourceResult>
+          <Literals>kraag</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>rok</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/5985573f-cd1b-4a56-b648-77e4c4d1c2cd</URIs>
+        </SkosSourceResult>
+      </SkosSourceResults>
+      <SourceUri>Arma 05    Koninkrijk Holland 1806-1810.doc</SourceUri>
+    </DocumentExportModel>
+    <DocumentExportModel>
+      <CreationDate>2011-08-22T13:04:44.2520493Z</CreationDate>
+      <FileName>Arma 04    De ontwikkeling van de Nederlandse gevechtswagens.doc</FileName>
+      <JobLabel>All</JobLabel>
+      <ModificationDate>2011-08-22T13:05:02.4260493Z</ModificationDate>
+      <SkosSourceResults>
+        <SkosSourceResult>
+          <Literals>Majoor|Officier</Literals>
+          <SkosSourceId>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/d4281332-307d-410b-a5e6-ded506a6dec1|http://www.rnaproject.org/data/274982c9-4ada-4618-a910-c291e43f2e54</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Majoor|Officier</Literals>
+          <SkosSourceId>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/d4281332-307d-410b-a5e6-ded506a6dec1|http://www.rnaproject.org/data/274982c9-4ada-4618-a910-c291e43f2e54</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+      </SkosSourceResults>
+      <SourceUri>Arma 04    De ontwikkeling van de Nederlandse gevechtswagens.doc</SourceUri>
+    </DocumentExportModel>
+    <DocumentExportModel>
+      <CreationDate>2011-08-22T12:22:32.100547Z</CreationDate>
+      <FileName>Arma 04    Biologie van de uniform.doc</FileName>
+      <JobLabel>All</JobLabel>
+      <ModificationDate>2011-08-22T12:44:30.4467152Z</ModificationDate>
+      <SkosSourceResults>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>leer|menselijk|glas|goud|zilver|hout</Literals>
+          <SkosSourceId>Materialen (ABR) (http://rce.rnatoolset.net/structure/46)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/2e1c9539-9103-4776-8e5d-38677c599ab3|http://www.rnaproject.org/data/d7076f0e-e4bc-4271-96e7-adf66033bb80|http://www.rnaproject.org/data/0f834d49-c9f3-4e9d-bf62-d5cb519f9a66|http://www.rnaproject.org/data/8bb1afdd-8547-42d0-ab43-dca087bf8cd0|http://www.rnaproject.org/data/9d899b66-1442-41f6-974d-e03b9d4132ae|http://www.rnaproject.org/data/364b956d-1af1-4afb-90a1-a3c5a65380c3</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Weg</Literals>
+          <SkosSourceId>Complextypen (ABR) (http://rce.rnatoolset.net/structure/49)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/73a81d12-1510-4f7b-9e38-ce541bee820d</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Kan|Haar|Band|Baar|Ring|Pen|Ketting|Gesp|Porselein</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/762d3f03-fd23-4f54-a006-2ab650b6e0e5|http://www.rnaproject.org/data/a3a3f0b5-36af-4c0b-b316-682acd83fd39|http://www.rnaproject.org/data/9559e291-d884-4e5b-aa0c-43f11cd0c749|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd|http://www.rnaproject.org/data/4497b49f-7b95-4ace-9ff2-64898629e088|http://www.rnaproject.org/data/861552ab-e696-439a-95ce-6f9bbfc1d649|http://www.rnaproject.org/data/eead9ece-2caa-4e84-bcb3-1b32309dce36</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Manschappen|Officier|Onderofficieren|Soldaat|Vaandrig</Literals>
+          <SkosSourceId>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/fa26227e-0b68-41d2-8f3b-3258e5f1da81|http://www.rnaproject.org/data/274982c9-4ada-4618-a910-c291e43f2e54|http://www.rnaproject.org/data/8d6e6fdf-9146-41a4-9c06-fcb10ddd28cd|http://www.rnaproject.org/data/6b745c1f-227c-4996-9619-4611c0a3e20a|http://www.rnaproject.org/data/d86a08c5-2c29-41b7-91a8-8264e8036707</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Manschappen|Officier|Onderofficieren|Soldaat|Vaandrig</Literals>
+          <SkosSourceId>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/fa26227e-0b68-41d2-8f3b-3258e5f1da81|http://www.rnaproject.org/data/274982c9-4ada-4618-a910-c291e43f2e54|http://www.rnaproject.org/data/8d6e6fdf-9146-41a4-9c06-fcb10ddd28cd|http://www.rnaproject.org/data/6b745c1f-227c-4996-9619-4611c0a3e20a|http://www.rnaproject.org/data/d86a08c5-2c29-41b7-91a8-8264e8036707</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>leer|menselijk|glas|goud|zilver|hout</Literals>
+          <SkosSourceId>Materialen (ABR) (http://rce.rnatoolset.net/structure/46)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/2e1c9539-9103-4776-8e5d-38677c599ab3|http://www.rnaproject.org/data/d7076f0e-e4bc-4271-96e7-adf66033bb80|http://www.rnaproject.org/data/0f834d49-c9f3-4e9d-bf62-d5cb519f9a66|http://www.rnaproject.org/data/8bb1afdd-8547-42d0-ab43-dca087bf8cd0|http://www.rnaproject.org/data/9d899b66-1442-41f6-974d-e03b9d4132ae|http://www.rnaproject.org/data/364b956d-1af1-4afb-90a1-a3c5a65380c3</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Kan|Haar|Band|Baar|Ring|Pen|Ketting|Gesp|Porselein</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/762d3f03-fd23-4f54-a006-2ab650b6e0e5|http://www.rnaproject.org/data/a3a3f0b5-36af-4c0b-b316-682acd83fd39|http://www.rnaproject.org/data/9559e291-d884-4e5b-aa0c-43f11cd0c749|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd|http://www.rnaproject.org/data/4497b49f-7b95-4ace-9ff2-64898629e088|http://www.rnaproject.org/data/861552ab-e696-439a-95ce-6f9bbfc1d649|http://www.rnaproject.org/data/eead9ece-2caa-4e84-bcb3-1b32309dce36</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Kan|Haar|Band|Baar|Ring|Pen|Ketting|Gesp|Porselein</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/762d3f03-fd23-4f54-a006-2ab650b6e0e5|http://www.rnaproject.org/data/a3a3f0b5-36af-4c0b-b316-682acd83fd39|http://www.rnaproject.org/data/9559e291-d884-4e5b-aa0c-43f11cd0c749|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd|http://www.rnaproject.org/data/4497b49f-7b95-4ace-9ff2-64898629e088|http://www.rnaproject.org/data/861552ab-e696-439a-95ce-6f9bbfc1d649|http://www.rnaproject.org/data/eead9ece-2caa-4e84-bcb3-1b32309dce36</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Materialen|hout</Literals>
+          <SkosSourceId>Materialen (http://test.lm.rnatoolset.net/structure/54)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/9ef367eb-4caa-4b7c-ab3a-5642ba0f5169|http://www.rnaproject.org/data/dc1fd6d7-4e22-40cf-8b73-3eacd736e2e5</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Kan|Haar|Band|Baar|Ring|Pen|Ketting|Gesp|Porselein</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/762d3f03-fd23-4f54-a006-2ab650b6e0e5|http://www.rnaproject.org/data/a3a3f0b5-36af-4c0b-b316-682acd83fd39|http://www.rnaproject.org/data/9559e291-d884-4e5b-aa0c-43f11cd0c749|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd|http://www.rnaproject.org/data/4497b49f-7b95-4ace-9ff2-64898629e088|http://www.rnaproject.org/data/861552ab-e696-439a-95ce-6f9bbfc1d649|http://www.rnaproject.org/data/eead9ece-2caa-4e84-bcb3-1b32309dce36</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>fregat|vliegtuigen</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/205be9f7-5aad-471d-93e7-37598b0c95c0|http://www.rnaproject.org/data/8b10701b-6d71-49cf-8a1e-916a7ade9b5e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>fregat|vliegtuigen</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/205be9f7-5aad-471d-93e7-37598b0c95c0|http://www.rnaproject.org/data/8b10701b-6d71-49cf-8a1e-916a7ade9b5e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Kan|Haar|Band|Baar|Ring|Pen|Ketting|Gesp|Porselein</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/762d3f03-fd23-4f54-a006-2ab650b6e0e5|http://www.rnaproject.org/data/a3a3f0b5-36af-4c0b-b316-682acd83fd39|http://www.rnaproject.org/data/9559e291-d884-4e5b-aa0c-43f11cd0c749|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd|http://www.rnaproject.org/data/4497b49f-7b95-4ace-9ff2-64898629e088|http://www.rnaproject.org/data/861552ab-e696-439a-95ce-6f9bbfc1d649|http://www.rnaproject.org/data/eead9ece-2caa-4e84-bcb3-1b32309dce36</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Kan|Haar|Band|Baar|Ring|Pen|Ketting|Gesp|Porselein</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/762d3f03-fd23-4f54-a006-2ab650b6e0e5|http://www.rnaproject.org/data/a3a3f0b5-36af-4c0b-b316-682acd83fd39|http://www.rnaproject.org/data/9559e291-d884-4e5b-aa0c-43f11cd0c749|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd|http://www.rnaproject.org/data/4497b49f-7b95-4ace-9ff2-64898629e088|http://www.rnaproject.org/data/861552ab-e696-439a-95ce-6f9bbfc1d649|http://www.rnaproject.org/data/eead9ece-2caa-4e84-bcb3-1b32309dce36</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Kan|Haar|Band|Baar|Ring|Pen|Ketting|Gesp|Porselein</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/762d3f03-fd23-4f54-a006-2ab650b6e0e5|http://www.rnaproject.org/data/a3a3f0b5-36af-4c0b-b316-682acd83fd39|http://www.rnaproject.org/data/9559e291-d884-4e5b-aa0c-43f11cd0c749|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd|http://www.rnaproject.org/data/4497b49f-7b95-4ace-9ff2-64898629e088|http://www.rnaproject.org/data/861552ab-e696-439a-95ce-6f9bbfc1d649|http://www.rnaproject.org/data/eead9ece-2caa-4e84-bcb3-1b32309dce36</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Manschappen|Officier|Onderofficieren|Soldaat|Vaandrig</Literals>
+          <SkosSourceId>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/fa26227e-0b68-41d2-8f3b-3258e5f1da81|http://www.rnaproject.org/data/274982c9-4ada-4618-a910-c291e43f2e54|http://www.rnaproject.org/data/8d6e6fdf-9146-41a4-9c06-fcb10ddd28cd|http://www.rnaproject.org/data/6b745c1f-227c-4996-9619-4611c0a3e20a|http://www.rnaproject.org/data/d86a08c5-2c29-41b7-91a8-8264e8036707</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>los|hout</Literals>
+          <SkosSourceId>Verzamelwijzen (ABR) (http://rce.rnatoolset.net/structure/42)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/5317beb0-caa3-441a-af88-4c4120c74eed|http://www.rnaproject.org/data/14630ed9-c766-477e-891d-5ae581146312</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>middeleeuwen</Literals>
+          <SkosSourceId>Perioden (ABR) (http://rce.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/f721d9c3-484a-47e8-ba9f-e347a46eb0e0</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>leer|menselijk|glas|goud|zilver|hout</Literals>
+          <SkosSourceId>Materialen (ABR) (http://rce.rnatoolset.net/structure/46)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/2e1c9539-9103-4776-8e5d-38677c599ab3|http://www.rnaproject.org/data/d7076f0e-e4bc-4271-96e7-adf66033bb80|http://www.rnaproject.org/data/0f834d49-c9f3-4e9d-bf62-d5cb519f9a66|http://www.rnaproject.org/data/8bb1afdd-8547-42d0-ab43-dca087bf8cd0|http://www.rnaproject.org/data/9d899b66-1442-41f6-974d-e03b9d4132ae|http://www.rnaproject.org/data/364b956d-1af1-4afb-90a1-a3c5a65380c3</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Kan|Haar|Band|Baar|Ring|Pen|Ketting|Gesp|Porselein</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/762d3f03-fd23-4f54-a006-2ab650b6e0e5|http://www.rnaproject.org/data/a3a3f0b5-36af-4c0b-b316-682acd83fd39|http://www.rnaproject.org/data/9559e291-d884-4e5b-aa0c-43f11cd0c749|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd|http://www.rnaproject.org/data/4497b49f-7b95-4ace-9ff2-64898629e088|http://www.rnaproject.org/data/861552ab-e696-439a-95ce-6f9bbfc1d649|http://www.rnaproject.org/data/eead9ece-2caa-4e84-bcb3-1b32309dce36</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Manschappen|Officier|Onderofficieren|Soldaat|Vaandrig</Literals>
+          <SkosSourceId>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/fa26227e-0b68-41d2-8f3b-3258e5f1da81|http://www.rnaproject.org/data/274982c9-4ada-4618-a910-c291e43f2e54|http://www.rnaproject.org/data/8d6e6fdf-9146-41a4-9c06-fcb10ddd28cd|http://www.rnaproject.org/data/6b745c1f-227c-4996-9619-4611c0a3e20a|http://www.rnaproject.org/data/d86a08c5-2c29-41b7-91a8-8264e8036707</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>tamboer</Literals>
+          <SkosSourceId>Functies (http://test.lm.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/f47e0d78-55f6-411a-8103-79c0864e4ad6</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Manschappen|Officier|Onderofficieren|Soldaat|Vaandrig</Literals>
+          <SkosSourceId>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/fa26227e-0b68-41d2-8f3b-3258e5f1da81|http://www.rnaproject.org/data/274982c9-4ada-4618-a910-c291e43f2e54|http://www.rnaproject.org/data/8d6e6fdf-9146-41a4-9c06-fcb10ddd28cd|http://www.rnaproject.org/data/6b745c1f-227c-4996-9619-4611c0a3e20a|http://www.rnaproject.org/data/d86a08c5-2c29-41b7-91a8-8264e8036707</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>leer|menselijk|glas|goud|zilver|hout</Literals>
+          <SkosSourceId>Materialen (ABR) (http://rce.rnatoolset.net/structure/46)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/2e1c9539-9103-4776-8e5d-38677c599ab3|http://www.rnaproject.org/data/d7076f0e-e4bc-4271-96e7-adf66033bb80|http://www.rnaproject.org/data/0f834d49-c9f3-4e9d-bf62-d5cb519f9a66|http://www.rnaproject.org/data/8bb1afdd-8547-42d0-ab43-dca087bf8cd0|http://www.rnaproject.org/data/9d899b66-1442-41f6-974d-e03b9d4132ae|http://www.rnaproject.org/data/364b956d-1af1-4afb-90a1-a3c5a65380c3</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>leer|menselijk|glas|goud|zilver|hout</Literals>
+          <SkosSourceId>Materialen (ABR) (http://rce.rnatoolset.net/structure/46)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/2e1c9539-9103-4776-8e5d-38677c599ab3|http://www.rnaproject.org/data/d7076f0e-e4bc-4271-96e7-adf66033bb80|http://www.rnaproject.org/data/0f834d49-c9f3-4e9d-bf62-d5cb519f9a66|http://www.rnaproject.org/data/8bb1afdd-8547-42d0-ab43-dca087bf8cd0|http://www.rnaproject.org/data/9d899b66-1442-41f6-974d-e03b9d4132ae|http://www.rnaproject.org/data/364b956d-1af1-4afb-90a1-a3c5a65380c3</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>los|hout</Literals>
+          <SkosSourceId>Verzamelwijzen (ABR) (http://rce.rnatoolset.net/structure/42)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/5317beb0-caa3-441a-af88-4c4120c74eed|http://www.rnaproject.org/data/14630ed9-c766-477e-891d-5ae581146312</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Materialen|hout</Literals>
+          <SkosSourceId>Materialen (http://test.lm.rnatoolset.net/structure/54)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/9ef367eb-4caa-4b7c-ab3a-5642ba0f5169|http://www.rnaproject.org/data/dc1fd6d7-4e22-40cf-8b73-3eacd736e2e5</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>leer|menselijk|glas|goud|zilver|hout</Literals>
+          <SkosSourceId>Materialen (ABR) (http://rce.rnatoolset.net/structure/46)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/2e1c9539-9103-4776-8e5d-38677c599ab3|http://www.rnaproject.org/data/d7076f0e-e4bc-4271-96e7-adf66033bb80|http://www.rnaproject.org/data/0f834d49-c9f3-4e9d-bf62-d5cb519f9a66|http://www.rnaproject.org/data/8bb1afdd-8547-42d0-ab43-dca087bf8cd0|http://www.rnaproject.org/data/9d899b66-1442-41f6-974d-e03b9d4132ae|http://www.rnaproject.org/data/364b956d-1af1-4afb-90a1-a3c5a65380c3</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Kan|Haar|Band|Baar|Ring|Pen|Ketting|Gesp|Porselein</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/762d3f03-fd23-4f54-a006-2ab650b6e0e5|http://www.rnaproject.org/data/a3a3f0b5-36af-4c0b-b316-682acd83fd39|http://www.rnaproject.org/data/9559e291-d884-4e5b-aa0c-43f11cd0c749|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd|http://www.rnaproject.org/data/4497b49f-7b95-4ace-9ff2-64898629e088|http://www.rnaproject.org/data/861552ab-e696-439a-95ce-6f9bbfc1d649|http://www.rnaproject.org/data/eead9ece-2caa-4e84-bcb3-1b32309dce36</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>plaat|mijn|ken|loop|helm|harnas|boog|zwaard|sabel|ringkraag|wapenrok|handgranaat|gesp|riem|kraag|geweer</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/9da1e4c8-4425-46ed-bc09-f7ed9b58b74b|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/5986e079-79b0-4f01-8094-4339699760d0|http://www.rnaproject.org/data/19ffd3d9-c70a-4128-a062-71d5016eac21|http://www.rnaproject.org/data/12d55c5b-a76a-4348-acd6-27f1cb203bbf|http://www.rnaproject.org/data/d473f25d-7486-4341-93b2-d107d7b72643|http://www.rnaproject.org/data/f971a174-98d4-4be4-b298-eb533a3b927f|http://www.rnaproject.org/data/4bc6374c-2de8-4915-9dbb-9ca728d1aa66|http://www.rnaproject.org/data/9591217b-9f88-41ec-9055-1f773d9cf8d0|http://www.rnaproject.org/data/48cff0a0-e090-4c92-b30c-19b8d644b089|http://www.rnaproject.org/data/dc4e2d35-232c-4e81-803f-82ea74aee8b8|http://www.rnaproject.org/data/f345c154-974f-4868-bc3c-73a2c2c15fa2|http://www.rnaproject.org/data/96e3dd6e-74f9-49bd-816d-ecd4fe512715|http://www.rnaproject.org/data/b32880fb-60aa-4e09-9586-44b7166795d7|http://www.rnaproject.org/data/019ea51f-c098-4048-ad1a-8102c0b5b67e</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>uniformen|helm|handschoen|ringkraag|draagriem|mantel|cape|sjerp|jas|hoed|hoofddeksels|grenadiersmuts|muts|riemen</Literals>
+          <SkosSourceId>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/16d71e1b-7db2-4b4c-a39c-922350960867|http://www.rnaproject.org/data/9860b2a4-92b8-481a-b93d-44bf975de617|http://www.rnaproject.org/data/d9451a9a-4b33-4e46-be14-2113fa3f293f|http://www.rnaproject.org/data/938b44fe-75da-4a42-9648-01befe4b6bee|http://www.rnaproject.org/data/f4425456-01b7-49d0-91e3-60f967234fa1|http://www.rnaproject.org/data/44beb418-4974-4503-8862-8645407b114e|http://www.rnaproject.org/data/3ab33c69-dd06-44a9-be40-1f570230ace2|http://www.rnaproject.org/data/e68e5fa5-c272-4a5e-86c0-4cfa1b1bf1cb|http://www.rnaproject.org/data/30963468-6899-48c3-a3a6-87f65906d602|http://www.rnaproject.org/data/e79d8511-279e-484e-9d46-19db8f2c6c5b|http://www.rnaproject.org/data/4a0ac58c-9820-4a67-92d2-bcf8d984b259|http://www.rnaproject.org/data/03e34169-af71-4d4c-b37d-edd73933c6a5|http://www.rnaproject.org/data/93f3dc65-eeaa-40f4-adb6-e8c884457a29|http://www.rnaproject.org/data/cd82848d-b093-45aa-8243-9be08096cf13</URIs>
+        </SkosSourceResult>
+      </SkosSourceResults>
+      <SourceUri>Arma 04    Biologie van de uniform.doc</SourceUri>
+    </DocumentExportModel>
+    <DocumentExportModel>
+      <CreationDate>2011-08-22T13:06:10.5922493Z</CreationDate>
+      <FileName>Arma 04    De ontwikkeling van de Nederlandse gevechtswagens.doc</FileName>
+      <JobLabel>All</JobLabel>
+      <ModificationDate>2011-08-22T13:06:26.4574493Z</ModificationDate>
+      <SkosSourceResults>
+        <SkosSourceResult>
+          <Literals>Majoor|Officier</Literals>
+          <SkosSourceId>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/d4281332-307d-410b-a5e6-ded506a6dec1|http://www.rnaproject.org/data/274982c9-4ada-4618-a910-c291e43f2e54</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>automobielen|voertuigen|gevechtsvoertuig|gevechtsvoertuig|pantserwagen|tank</Literals>
+          <SkosSourceId>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/db6865eb-80c2-4cb4-b82d-edab1b7ae0de|http://www.rnaproject.org/data/83742929-ec25-4516-bb01-8b40fc8a6646|http://www.rnaproject.org/data/b85c770f-1684-4574-8db4-764fcff1aa1b|http://www.rnaproject.org/data/103ab126-7627-4a12-aecd-d8ecf9ac764a|http://www.rnaproject.org/data/18e39edc-7eb9-4d56-86a0-5a0de47304b6|http://www.rnaproject.org/data/2394462f-5774-4be1-b4ae-0765404fb724</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Majoor|Officier</Literals>
+          <SkosSourceId>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/d4281332-307d-410b-a5e6-ded506a6dec1|http://www.rnaproject.org/data/274982c9-4ada-4618-a910-c291e43f2e54</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>Haar|Kan|Slinger|Gewicht|Pen</Literals>
+          <SkosSourceId>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/65ed57c3-c5a7-47b0-a3fb-c9eb56942428|http://www.rnaproject.org/data/29e49b4f-78b8-4b32-97da-a51984543572|http://www.rnaproject.org/data/4c5f7935-973a-49c3-8284-1f3f94d14c28|http://www.rnaproject.org/data/b2ce8dd7-4da6-489e-ae2d-766df35954d5|http://www.rnaproject.org/data/dfae99ef-95b4-44ce-90cd-f6bb2208cccd</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+        <SkosSourceResult>
+          <Literals>mitrailleur|ken|kanon|geschut|plaat|munitie</Literals>
+          <SkosSourceId>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</SkosSourceId>
+          <URIs>http://www.rnaproject.org/data/889c24c8-8666-42f9-9a7e-f63497cf3b66|http://www.rnaproject.org/data/21d2fe20-9007-4620-8238-e88fe9be9fda|http://www.rnaproject.org/data/ab652852-7eb4-4b64-9532-640c225a0a34|http://www.rnaproject.org/data/56a22fde-139b-4f36-962f-3e72e9dc2b97|http://www.rnaproject.org/data/142a7a7b-c338-42fc-afc8-a2e2a4e5ef83|http://www.rnaproject.org/data/1c3ac17e-63b3-4c92-be3f-6def2a19afe4</URIs>
+        </SkosSourceResult>
+      </SkosSourceResults>
+      <SourceUri>Arma 04    De ontwikkeling van de Nederlandse gevechtswagens.doc</SourceUri>
+    </DocumentExportModel>
+  </Documents>
+  <Headers xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:string>ModificationDate</d2p1:string>
+    <d2p1:string>CreationDate</d2p1:string>
+    <d2p1:string>FileName</d2p1:string>
+    <d2p1:string>JobLabel</d2p1:string>
+    <d2p1:string>SourceUri</d2p1:string>
+  </Headers>
+  <SkosSourcePivotHeaders xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:string>Militaire rangen (http://test.lm.rnatoolset.net/structure/48)</d2p1:string>
+    <d2p1:string>Thesaurus transportmiddelen (http://test.lm.rnatoolset.net/structure/45)</d2p1:string>
+    <d2p1:string>Thesaurus wapens (http://test.lm.rnatoolset.net/structure/44)</d2p1:string>
+    <d2p1:string>Artefacten (ABR) (http://rce.rnatoolset.net/structure/50)</d2p1:string>
+    <d2p1:string>Thesaurus uniformen (http://test.lm.rnatoolset.net/structure/60)</d2p1:string>
+    <d2p1:string>Materialen (ABR) (http://rce.rnatoolset.net/structure/46)</d2p1:string>
+    <d2p1:string>Complextypen (ABR) (http://rce.rnatoolset.net/structure/49)</d2p1:string>
+    <d2p1:string>Materialen (http://test.lm.rnatoolset.net/structure/54)</d2p1:string>
+    <d2p1:string>Verzamelwijzen (ABR) (http://rce.rnatoolset.net/structure/42)</d2p1:string>
+    <d2p1:string>Perioden (ABR) (http://rce.rnatoolset.net/structure/44)</d2p1:string>
+    <d2p1:string>Functies (http://test.lm.rnatoolset.net/structure/50)</d2p1:string>
+  </SkosSourcePivotHeaders>
+</ExportModel>

@@ -1,0 +1,1 @@
+"C:\Development\Checkers 2\Checkers 2\ExcelChecker\bin\ExcelXmlChecker.exe" "C:\Development\Checkers 2\Checkers 2\ExcelCheckerTests\Integration\TestFiles\test1.xml" 0 1 "C:\temp\test_output.xml" -headerRows:1

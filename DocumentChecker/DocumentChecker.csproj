@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6A4222CC-E9F9-410C-846A-74DC7632C51F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Trezorix.Checkers.DocumentChecker</RootNamespace>
+    <AssemblyName>Trezorix.Checkers.DocumentChecker</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Trezorix.Common">
+      <HintPath>..\Lib\Trezorix.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Checkers2AssemblyInfo.cs">
+      <Link>Checkers2AssemblyInfo.cs</Link>
+    </Compile>
+    <Compile Include="Documents\AnalysisResult.cs" />
+    <Compile Include="Documents\ArtifactPersister.cs" />
+    <Compile Include="Documents\DocumentRepository.cs" />
+    <Compile Include="Documents\IDocumentRepository.cs" />
+    <Compile Include="Documents\ReviewResult.cs" />
+    <Compile Include="Documents\FragmentTokenMatches.cs" />
+    <Compile Include="Documents\Document.cs" />
+    <Compile Include="Jobs\IJobRepository.cs" />
+    <Compile Include="Jobs\Job.cs" />
+    <Compile Include="Jobs\JobRepository.cs" />
+    <Compile Include="Processing\Fragmenters\XmlFragmenter.cs" />
+    <Compile Include="Processing\DocumentConverter.cs" />
+    <Compile Include="Processing\DocumentProcessor.cs" />
+    <Compile Include="DocumentAnalyzer.cs" />
+    <Compile Include="Documents\DocumentState.cs" />
+    <Compile Include="Processing\Fragmenters\Fragment.cs" />
+    <Compile Include="Processing\Fragmenters\BreadCrumbXPathBuilder.cs" />
+    <Compile Include="Processing\ResultXHTMLRenderer.cs" />
+    <Compile Include="Profiles\IProfileRepository.cs" />
+    <Compile Include="Profiles\Profile.cs" />
+    <Compile Include="Profiles\ProfileRepository.cs" />
+    <Compile Include="Profiles\SkosSourceBinding.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SkosSources\ISkosSourceRepository.cs" />
+    <Compile Include="SkosSources\SkosSource.cs" />
+    <Compile Include="SkosSources\SkosSourceRepository.cs" />
+    <Compile Include="SkosSources\TermEnricherSettings.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Analyzer\Analyzer.csproj">
+      <Project>{92B2249F-465C-4ABF-B0C9-44891C921979}</Project>
+      <Name>Analyzer %28Analyzer\Analyzer%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Checkers.Common\Checkers.Common.csproj">
+      <Project>{AE8B1FB1-157B-4128-A387-84B0FD12A905}</Project>
+      <Name>Checkers.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ResourceRepository\ResourceRepository.csproj">
+      <Project>{37713EA6-4557-4692-B96A-4400B1A575D5}</Project>
+      <Name>ResourceRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FileConverter\FileConverter.csproj">
+      <Project>{47483020-1704-48D0-9D0A-0C338F48BB46}</Project>
+      <Name>FileConverter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

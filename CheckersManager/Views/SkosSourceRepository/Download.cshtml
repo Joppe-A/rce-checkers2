@@ -1,0 +1,24 @@
+﻿@model Trezorix.Checkers.ManagerApp.Models.SkosSourceRepository.SkosSourceEditModel
+
+@{
+    ViewBag.Title = "Download SKOS file";
+}
+
+@Html.ValidationSummary(false, "Unable to create skos source, please review the errors below:")    
+<form action="@Url.Action("Download")" method="post">
+    @{Html.RenderPartial("Create", Model);}
+
+    <fieldset>
+        <legend>Download a SKOS file</legend>
+        <div class="row">
+            <label for="download">
+                Download URL:
+            </label>
+            <input type="text" name="sourceuri" id="download" />
+        </div>
+        <div class="row row-buttons">
+            <input type="submit" value="Download" />
+        </div>
+    </fieldset>
+</form>
+

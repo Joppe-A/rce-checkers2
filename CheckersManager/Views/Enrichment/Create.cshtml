@@ -1,0 +1,19 @@
+﻿@model System.String
+@{
+	ViewBag.Title = "Create";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Created</h2>
+
+@Model
+
+<script language="javascript" type="text/javascript">
+
+	function goBack() {
+		window.location = "@Url.Action("Index")";
+	}
+
+	setTimeout("goBack()", 2500);
+
+</script>
