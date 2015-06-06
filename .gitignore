@@ -188,6 +188,4 @@ FakesAssemblies/
 *.DotSettings
 
 # project specific ignores
-Util/*.xml
-RceDoorzoeker/Properties/PublishProfiles/AT.pubxml
-RCEDoorzoeker\lib\rna remote 3.9\readme.txt
+
